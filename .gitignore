@@ -1,0 +1,15 @@
+# Sorties de simulation et heightmaps téléchargées
+results/
+
+# Anciens fichiers mis de côté
+_archive/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Éditeur / outils (dossiers .claude à tous les niveaux)
+**/.claude/
+.vscode/
+.idea/
